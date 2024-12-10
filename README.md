@@ -52,9 +52,6 @@ This project involves creating and configuring AWS resources to deploy a basic w
      - Inbound: Allow **HTTP (80)** and **SSH (22)**.
      - Outbound: Allow all traffic.
 
-## Nacl Configuration
-![NACL Screenshot](images/nacl.JPG)
-
 
 5. **Set Up Security Groups**
    - Navigate to **Security Groups > Create Security Group**.
